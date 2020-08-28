@@ -1,0 +1,54 @@
+{
+  "salads": [
+    {
+      "name": "caesar",
+      "description": "Chop together anchovy fillets, garlic, and pinch of salt lorem lorem lorem lorem lorem lorem lorem",
+      "price": "$80.00",
+      "image": "caesar-salad.png"
+    },
+    {
+      "name": "greek",
+      "description": "Spicy roasted chicken, smoked mozzarella, fire-roasted peppers, baby sunblush tomatoes & spinach on a smoky romesco pepper & tomato sauce base. Crust style: original or crispy thin. Crust toppers: garlic butter, parmesan cheese, or roman seasoning",
+      "price": "$100.00",
+      "image": "greek-salad.png"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Blackberry sour",
+      "description": "Hoppy, resinous, and citrus",
+      "price": "$95.00",
+      "image": "blackberry-sour.png"
+    }
+  ],
+  "pastas": [
+    {
+      "name": "Chicken pasta",
+      "description": "Healthy grilled chicken and ranch wraps are loaded with lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+      "price": "$95.00",
+      "image": "chicken-pasta.png"
+    }
+  ],
+  "wraps": [
+    {
+      "name": "Chicken wrap",
+      "description": "Healthy grilled chicken and ranch wraps are loaded with lorem lorem lorem lorem lorem lorem lorem",
+      "price": "$120.00",
+      "image": "chicken-wrap.png"
+    }
+  ],
+  "proteins": [
+    {
+      "name": "Salmon",
+      "description": "Spicy roasted salmon, smoked mozzarella, fire-roasted peppers, baby sunblush tomatoes & spinach on a smoky romesco pepper & tomato sauce base. Crust style: original or crispy thin. Crust toppers: garlic butter, parmesan cheese, or roman seasoning. ",
+      "price": "$250.00",
+      "image": "salmon.png"
+    },
+    {
+      "name": "Chickpeas",
+      "description": "Chickpeas chopped and pinch of salt lorem lorem lorem lorem lorem lorem lorem lorem lorem",
+      "price": "$200.00",
+      "image": "chickpeas.png"
+    }
+  ]
+}
