@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "604373974800",
+    "firebase_url": "https://pokefire-52ad3.firebaseio.com",
+    "project_id": "pokefire-52ad3",
+    "storage_bucket": "pokefire-52ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604373974800:android:f83fab3e34eb75872baf95",
+        "android_client_info": {
+          "package_name": "com.example.pokedex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604373974800-nilsro8b8kalvi746kdr93gjlorn1tjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQEa7CcoXwfGQGhvsZ6bShpsE7FZgOJSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604373974800-nilsro8b8kalvi746kdr93gjlorn1tjr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
