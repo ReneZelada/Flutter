@@ -28,6 +28,10 @@ APK: this only will run on Android devices and I already attached it to the emai
 3. Tap Menu icon (upper-right).
 4. Tap Special access.
 5. Tap Install unknown apps.Select the unknown app then tap the Allow from this source switch to turn on Switch on or off Switch off.
+
+
+* remember that play protect will find the application as unknown so at the time that you are intalling it please select install anyway!
+
 ** remember that you need to have an internet connection to run it!
 
 # HTTP Package
