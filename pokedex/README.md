@@ -18,12 +18,16 @@ samples, guidance on mobile development, and a full API reference.
 # Android devices  
 You need to download the apk
 
-APK: this only will run on Android devices and you can find it on build/app/outputs/flutter-apk/app-release.apk().
+APK: this only will run on Android devices and I already attached it to the email.
 
 ** To install it you need to enable apps from unknown sources, you can enable it by following the following steps:
 
-# Android® 8.x & higher
-From a Home screen, swipe up or down from the center of the display to access the apps screen.Navigate: Settings Settings icon > Apps.Tap Menu icon (upper-right).Tap Special access.Tap Install unknown apps.Select the unknown app then tap the Allow from this source switch to turn on Switch on or off Switch off.
+# Enable apps from unknown sources
+1. From a Home screen, swipe up or down from the center of the display to access the apps screen.
+2. Navigate: Settings  Settings icon > Apps.
+3. Tap Menu icon (upper-right).
+4. Tap Special access.
+5. Tap Install unknown apps.Select the unknown app then tap the Allow from this source switch to turn on Switch on or off Switch off.
 ** remember that you need to have an internet connection to run it!
 
 # HTTP Package
